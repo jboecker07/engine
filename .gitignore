@@ -5,9 +5,6 @@
 #
 # [core]
 #     excludesfile = ~/.gitignore
-#
-# Cheers!
-# -andrewrk
 
 zig-cache/
 /release/
